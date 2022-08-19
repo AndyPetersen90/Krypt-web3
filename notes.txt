@@ -1,0 +1,2 @@
+Using Vite to create the react app
+using Tailwind for CSS in the project
